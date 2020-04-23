@@ -48,6 +48,7 @@ nav ul li {
 
 #sign-up {
   justify-content: end;
+  margin-left: 30%;
 }
 
 #sign-in {
@@ -235,7 +236,8 @@ nav ul li {
 
 .product-team .organize img {
   min-width: 20px;
-  min-height: 15px;
+  height: 25px;
+  /* min-height: 15px; */
   margin-right: 20px;
 }
 
@@ -325,7 +327,8 @@ nav ul li {
 
 .sprints ul li img {
   min-width: 30px;
-  min-height: 15px;
+  /* height: 25px; */
+  max-height: 30px;
   margin-right: 20px;
 }
 
@@ -381,7 +384,7 @@ nav ul li {
 
 .support-team .onboard img {
   min-width: 30px;
-  min-height: 15px;
+  max-height: 30px;
   margin-right: 20px;
 }
 
